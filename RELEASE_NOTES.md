@@ -1,4 +1,6 @@
 ###Release Notes
+**1.0.59**
+Fixed broken link in SRA Import app docs.
 
 **1.0.58**
 added new apps and utilities to support sequence set import.
