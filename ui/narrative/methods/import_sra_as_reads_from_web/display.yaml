@@ -58,7 +58,7 @@ parameter-groups :
         short-hint : SRA file URL and output Reads file name.
 
 description : |
-    <p>This App allows the user to load SRA format read libraries directly into the workspace from sources on the web. In addition to standard HTTP and anonymous FTP links, the user may also obtain files from Google drive and Dropbox links. Please see the <a href="http://kbase.us/data-upload-download-guide/short-reads//">FASTQ/SRA Reads Data Upload/Download Guide</a> for more information about SRA reads libraries.</p>
+    <p>This App allows the user to load SRA format read libraries directly into the workspace from sources on the web. In addition to standard HTTP and anonymous FTP links, the user may also obtain files from Google drive and Dropbox links. Please see the <a href="https://docs.kbase.us/data/upload-download-guide/reads">FASTQ/SRA Reads Data Upload/Download Guide</a> for more information about SRA reads libraries.</p>
 
     <p><strong>Using the app</strong><br>The user must inform KBase about the nature of the URL link by selecting one of the choices in the “URL Type” pulldown menu.  “Direct” means the link is a standard WWW URL, “FTP link” means anonymous FTP, and “Dropbox” and “Google Drive” Public Shared Links are for shared files in those two sources (see below for more instructions in those two cases).</p>
 
